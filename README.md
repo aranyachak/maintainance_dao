@@ -22,7 +22,7 @@ This smart contract allows community members to democratically manage a shared t
 ## Deployed Smart Contract Link
 **Network:** Stellar Testnet / Futurenet  
 **Contract ID:** `CCCFVIKRQA66HGOLLCIVAZFI6BYQHJXJ7MECGUT7K225VDHBJ5UKGG3D`  
+**Link: https://stellar.expert/explorer/testnet/contract/CCCFVIKRQA66HGOLLCIVAZFI6BYQHJXJ7MECGUT7K225VDHBJ5UKGG3D
 
-*(Note: To interact with this contract, ensure you have a Stellar wallet configured for the appropriate network and the necessary native tokens for gas fees).*
 
 
